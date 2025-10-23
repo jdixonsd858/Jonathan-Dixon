@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jonathan-dixon-475bbb45/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Cybersecurity enthusiast eager to showcase all my recent hard work and studies.
+Cybersecurity enthusiast eager to put all my recent hard work and studies into work.
 
 ## Objective
 
@@ -12,13 +12,8 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Alert Triage and Analysis                     | SOC Simulator TryHackMe|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Home Lab Setup w/ Splunk; Sysmon; Metasploit  | <a href="https://google.com">Telemetry Lab</a>|
+
 
 ## Tools
 
@@ -60,5 +55,5 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 </div>
 
 ## Projects
-- Detection Lab
+- Telemetry Lab
 - SOC Automation Project
