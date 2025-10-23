@@ -12,7 +12,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Home Lab Setup w/ Splunk; Sysmon; Metasploit  | <a href="https://google.com">Telemetry Lab</a>|
+| Home Lab Setup w/ Splunk; Sysmon; Metasploit  | <a href="https://github.com/jdixonsd858/Telemetry-Lab/tree/main">Telemetry Lab</a>|
 
 
 ## Tools
@@ -55,5 +55,5 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 </div>
 
 ## Projects
-- Telemetry Lab
+- <a href="https://github.com/jdixonsd858/Telemetry-Lab/tree/main">Telemetry Lab</a>
 - SOC Automation Project
