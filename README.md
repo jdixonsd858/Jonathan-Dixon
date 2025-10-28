@@ -13,7 +13,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Automation with Shuffle SOAR              | <a href="https://github.com/jdixonsd858/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
-| Active Directory Setup & Server Configuration | <a href="https://github.com/jdixonsd858/Telemetry-Lab/tree/main">Active Directory Project</a>|
+| Active Directory Setup & Server Configuration | <a href="https://github.com/jdixonsd858/Active-Directory-Project/tree/main">Active Directory Project</a>|
 | Home Lab Setup w/ Splunk; Sysmon; Metasploit  | <a href="https://github.com/jdixonsd858/Telemetry-Lab/tree/main">Telemetry Lab</a>|
 
 
@@ -58,6 +58,6 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 
 ## Projects
 - <a href="https://github.com/jdixonsd858/SOC-Automation-Project/tree/main">SOC Automation Project</a>
-- 
+- <a href="https://github.com/jdixonsd858/Active-Directory-Project/tree/main">Active Directory Project</a>
 - <a href="https://github.com/jdixonsd858/Telemetry-Lab/tree/main">Telemetry Lab</a>
 
