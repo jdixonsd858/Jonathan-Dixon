@@ -12,7 +12,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC with Microsoft Sentinel Integration       | 
+| SOC with Microsoft Sentinel Integration       | <a href="https://github.com/jdixonsd858/SOC-with-Microsoft-Sentinel-Integration/tree/main">SOC with Microsoft Sentinel</a>|
 | SOC Automation with Shuffle SOAR              | <a href="https://github.com/jdixonsd858/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | Active Directory Setup & Server Configuration | <a href="https://github.com/jdixonsd858/Active-Directory-Project/tree/main">Active Directory Project</a>|
 | HoneyPot (T-Pot) Project                      | <a href="https://github.com/jdixonsd858/Honeypot-Project/tree/main">HoneyPot Project</a>|
@@ -60,6 +60,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 </div>
 
 ## Projects
+- <a href="https://github.com/jdixonsd858/SOC-with-Microsoft-Sentinel-Integration/tree/main">SOC with Microsoft Sentinel</a>
 - <a href="https://github.com/jdixonsd858/SOC-Automation-Project/tree/main">SOC Automation Project</a>
 - <a href="https://github.com/jdixonsd858/Active-Directory-Project/tree/main">Active Directory Project</a>
 - <a href="https://github.com/jdixonsd858/Honeypot-Project/tree/main">HoneyPot Project</a>
