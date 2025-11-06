@@ -13,6 +13,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC with Microsoft Sentinel Integration       | <a href="https://github.com/jdixonsd858/SOC-with-Microsoft-Sentinel-Integration/tree/main">SOC with Microsoft Sentinel</a>|
+| Build an AI Agent using n8n                   | <a href="https://github.com/jdixonsd858/Build-AI-Agent-using-n8n/tree/main">Build AI Agent using n8n</a>|
 | SOC Automation with Shuffle SOAR              | <a href="https://github.com/jdixonsd858/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | Active Directory Setup & Server Configuration | <a href="https://github.com/jdixonsd858/Active-Directory-Project/tree/main">Active Directory Project</a>|
 | HoneyPot (T-Pot) Project                      | <a href="https://github.com/jdixonsd858/Honeypot-Project/tree/main">HoneyPot Project</a>|
@@ -61,6 +62,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 
 ## Projects
 - <a href="https://github.com/jdixonsd858/SOC-with-Microsoft-Sentinel-Integration/tree/main">SOC with Microsoft Sentinel</a>
+- <a href="https://github.com/jdixonsd858/Build-AI-Agent-using-n8n/tree/main">Build AI Agent using n8n</a>
 - <a href="https://github.com/jdixonsd858/SOC-Automation-Project/tree/main">SOC Automation Project</a>
 - <a href="https://github.com/jdixonsd858/Active-Directory-Project/tree/main">Active Directory Project</a>
 - <a href="https://github.com/jdixonsd858/Honeypot-Project/tree/main">HoneyPot Project</a>
