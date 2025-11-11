@@ -18,6 +18,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 | Active Directory Setup & Server Configuration | <a href="https://github.com/jdixonsd858/Active-Directory-Project/tree/main">Active Directory Project</a>|
 | HoneyPot (T-Pot) Project                      | <a href="https://github.com/jdixonsd858/Honeypot-Project/tree/main">HoneyPot Project</a>|
 | Home Lab Setup w/ Splunk; Sysmon; Metasploit  | <a href="https://github.com/jdixonsd858/Telemetry-Lab/tree/main">Telemetry Lab</a>|
+| Build a Python Cryptography Cipher            | <a href="https://github.com/jdixonsd858/Telemetry-Lab/tree/main">Python Lab</a>|
 
 
 ## Tools
