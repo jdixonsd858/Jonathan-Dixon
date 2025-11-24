@@ -12,7 +12,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Managemt Program                | <a href="
+| Vulnerability Management Program              | <a href="https://github.com/jdixonsd858/Vulnerability-Management-Program/tree/main">Vulnerability Management Program</a>|
 | SOC with Microsoft Sentinel Integration       | <a href="https://github.com/jdixonsd858/SOC-with-Microsoft-Sentinel-Integration/tree/main">SOC with Microsoft Sentinel</a>|
 | Build an AI Agent using n8n                   | <a href="https://github.com/jdixonsd858/Build-AI-Agent-using-n8n/tree/main">Build AI Agent using n8n</a>|
 | SOC Automation with Shuffle SOAR              | <a href="https://github.com/jdixonsd858/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
@@ -63,6 +63,7 @@ Following a career change I've developed a passion for cybersecurity, and I am n
 </div>
 
 ## Projects
+- <a href="https://github.com/jdixonsd858/Vulnerability-Management-Program/tree/main">Vulnerability Management Program</a>
 - <a href="https://github.com/jdixonsd858/SOC-with-Microsoft-Sentinel-Integration/tree/main">SOC with Microsoft Sentinel</a>
 - <a href="https://github.com/jdixonsd858/Build-AI-Agent-using-n8n/tree/main">Build AI Agent using n8n</a>
 - <a href="https://github.com/jdixonsd858/SOC-Automation-Project/tree/main">SOC Automation Project</a>
